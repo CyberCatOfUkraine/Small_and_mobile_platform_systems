@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LR1</string>
+    <string name="creator_name_ukr">Баглай Олександр</string>
+    <string name="creator_name_eng">Baglay Olexandr</string>
+    <string name="app_name_ukr">Лабораторна робота 1</string>
+    <string name="app_name_eng">Laboratory work 1</string>
+    <string name="img_content_description">LR 1 image</string>
+</resources>
