@@ -11,4 +11,6 @@
     <string name="result">Результат: </string>
     <string name="insert_number">Введіть числа!</string>
     <string name="result_hint">Результат операції</string>
+    <string name="exit">Вийти</string>
+    <string name="clear">Очистити</string>
 </resources>
