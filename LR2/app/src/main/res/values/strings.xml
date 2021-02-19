@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Лабораторна робота 2</string>
+    <string name="number1_label">Перше число</string>
+    <string name="number2_label">Друге число</string>
+    <string name="insert_first_number">Введіть перше число</string>
+    <string name="insert_second_number">Введіть друге число</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiple">*</string>
+    <string name="divide">/</string>
+    <string name="result">Результат: </string>
+    <string name="insert_number">Введіть числа!</string>
+    <string name="result_hint">Результат операції</string>
+</resources>
